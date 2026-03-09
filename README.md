@@ -1,1 +1,1 @@
-pleas connect your own batabase.
+please connect your own batabase.
